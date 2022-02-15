@@ -7,7 +7,7 @@
     "env": {
       "ALPHA_SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",Alpha;;;.
-            "required": Alpha;;;eyJjbGllbnRJRCI6Ikt5TFloYmEzaGVwSUFsbXNjL2d2aFE9PSIsInNlcnZlclRva2VuIjoiMUBJTWFaVlI3eU11K3JOOFZjU3dPblFkSkc1elZxcDhMd3d3bTFTMkV0NUhDQis1TzZyRjh1a0IxWEtCRFJOZXVRZEFaS1M4ODg5QXVrU2c9PSIsImNsaWVudFRva2VuIjoiaUJUZkxaelNuT04xeXIwbXlnQmFTczc5T0FadEppYU1rSFd4bWtCd2Z2ST0iLCJlbmNLZXkiOiJMZkFBaURDTG1WUEhBeVhaQVZ5QmJzQTJjYVZzVTFCbEs0U2FqNUhKb2FRPSIsIm1hY0tleSI6ImpLL3A3OWpnWWdLaFI3cDloQWJpRWJ4NDdTN1A1VGhUNzJJcU5QeFhhUmc9In0=
+            "required": 
         },
         "BUTTON_CMD": {
             "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
