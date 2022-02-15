@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
       "ALPHA_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",Alpha;;;.
+            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
             "required": 
         },
         "BUTTON_CMD": {
